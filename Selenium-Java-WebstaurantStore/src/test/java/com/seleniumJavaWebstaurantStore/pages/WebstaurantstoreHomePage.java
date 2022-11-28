@@ -75,7 +75,7 @@ public class WebstaurantstoreHomePage extends PageObject {
         * Description - Regency 30" x 48" 16-Gauge Stainless Steel Equipment Stand with Galvanized Undershelf and 10" Stainless Steel Adjustable Work Surface
         * Description - Regency 24" x 24" 16-Gauge Stainless Steel Equipment Stand with Galvanized Undershelf, 10" Plate Shelf, and 10" Stainless Steel Adjustable Work Surface
         *
-        * Is three an issues on the lookup? or is it expected?
+        * Is this an issues on the lookup? or is it expected?
         *
         * Another approach to validate results is to do it via API testing
         *
