@@ -1,0 +1,15 @@
+com\seleniumJavaTemplate\pages\PageObject.class
+com\seleniumJavaTemplate\driver\BrowserType$3.class
+com\seleniumJavaTemplate\driver\BrowserType$2.class
+com\seleniumJavaTemplate\driver\DriverFactory.class
+com\seleniumJavaTemplate\util\PropKey.class
+com\seleniumJavaTemplate\driver\BrowserType.class
+com\seleniumJavaTemplate\driver\DriverManager.class
+com\seleniumJavaTemplate\driver\BrowserType$1.class
+com\seleniumJavaTemplate\pages\WebstaurantstoreHomePage.class
+com\seleniumJavaTemplate\driver\DriverSetup.class
+com\seleniumJavaTemplate\util\PropertyReader.class
+com\seleniumJavaTemplate\steps\WebstaurantstoreSteps.class
+com\seleniumJavaTemplate\util\Helper.class
+com\seleniumJavaTemplate\driver\BrowserType$4.class
+com\seleniumJavaTemplate\tests\WebstaurantstoreTest.class
