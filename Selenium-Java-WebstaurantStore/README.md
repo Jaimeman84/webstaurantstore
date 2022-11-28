@@ -24,7 +24,7 @@
   - PageObject.java
 - __/steps__ *Stores the steps implementations from the POM that will be called in the tests.*
   - WebstaurantstoreSteps.java
-  __/tests__ *Classes that will be executed to run the tests.*
+- __/tests__ *Classes that will be executed to run the tests.*
   - WebstaurantstoreTest.java
 - __/util__ *Folder that includes classes to support the framework.*
   - Helper.java
